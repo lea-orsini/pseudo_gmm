@@ -17,6 +17,6 @@ Link to the pre-print: NA
 To replicate the results presented in the article on one simulated data set, execute [Bayesian_analysis_of_restricted_mean_survival_time_adjusted_for_covariates_using_pseudo-observations_code.Rmd](https://github.com/Oncostat/pseudo_gmm/blob/main/Bayesian_analysis_of_restricted_mean_survival_time_adjusted_for_covariates_using_pseudo-observations/Bayesian_analysis_of_restricted_mean_survival_time_adjusted_for_covariates_using_pseudo-observations_code.Rmd)
 
 
-For questions, comments or remarks about the code please contact L. Orsini (lea.orsini@gustaveroussy.fr) or G. Le Teuff (gwenael.leteuff@gustaveroussy.com).
+For questions, comments or remarks about the code please contact L. Orsini (lea.orsini.pro@gmail.fr) or G. Le Teuff (gwenael.leteuff@gustaveroussy.com).
 
 
