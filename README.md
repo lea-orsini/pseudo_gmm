@@ -12,7 +12,7 @@ To replicate the results presented in the article on one simulated data set, exe
 
 Authors: Léa Orsini, Emmanuel Lesaffre, Guosheng Yin, Caroline Brard, David Dejardin, and Gwénaël Le Teuff
 
-Link to the pre-print: NA
+Link to the pre-print: [here](https://arxiv.org/abs/2503.05225)
 
 To replicate the results presented in the article on one simulated data set, execute [Bayesian_analysis_of_restricted_mean_survival_time_adjusted_for_covariates_using_pseudo-observations_code.Rmd](https://github.com/Oncostat/pseudo_gmm/blob/main/Bayesian_analysis_of_restricted_mean_survival_time_adjusted_for_covariates_using_pseudo-observations/Bayesian_analysis_of_restricted_mean_survival_time_adjusted_for_covariates_using_pseudo-observations_code.Rmd)
 
